@@ -1,5 +1,5 @@
 ---
 title: MyOpenArtifacts
 redirect_to:
-  - http://www.myopenartifacts.com/jimappleg8/geothemalliving-com/
+  - http://myopenartifacts.com/jimappleg8/geothermalliving-com/
 ---
