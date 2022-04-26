@@ -1,3 +1,6 @@
+# These basic deployment steps are from this tutorial:
+# https://docs.gitlab.com/ee/user/project/pages/getting_started/pages_from_scratch.html
+
 image: ruby:2.7
 
 pages:

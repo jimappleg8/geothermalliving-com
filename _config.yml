@@ -69,7 +69,7 @@ header_pages:
 
 footer_icons:
 - username: jimappleg8/geothermalliving-com/
-  url: https://myopenartifacts.com/jimappleg8/geothermalliving-com/
+  url: https://gitlab.com/open-artifacts/geothermalliving-com/
   icon: gitlab-icon-rgb.svg
 
 paginate: 5

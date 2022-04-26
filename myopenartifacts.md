@@ -1,5 +1,5 @@
 ---
-title: MyOpenArtifacts
+title: GitLab
 redirect_to:
-  - http://myopenartifacts.com/jimappleg8/geothermalliving-com/
+  - http://gitlab.com/open-arttifacts/geothermalliving-com/
 ---
