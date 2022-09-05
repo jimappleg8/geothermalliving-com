@@ -65,7 +65,7 @@ header_pages:
 - about.md
 - intent.md
 - posts.md
-- myopenartifacts.md
+- gitlab.md
 
 footer_icons:
 - username: jimappleg8/geothermalliving-com/
